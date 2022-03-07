@@ -10,8 +10,9 @@
 
 .menu-header{
     height: 23px;
-    width: auto;
+    width: 1110px;
     padding-bottom: 96px;
+    padding-top: 96px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -26,11 +27,12 @@
 
 .menu-footer{
     height: 23px;
-    width: 100%;
+    width: 1110px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding-top:114px;
+    padding-bottom: 100px;
 }
 .item-footer-social{
     width: 355px;

@@ -49,14 +49,13 @@
 }
 /*.........................Photo-grid.....................*/
 .photo-grid-container{
-    width: 1115px;
+    width: 1110px;
     height: 1960px;
     display: grid;
     grid-template-columns:auto;
     grid-template-rows: auto;
     grid-gap: 20px;
     padding-bottom: 91px;
-    margin: auto;
 }
 
 .rectangle-1{
@@ -118,7 +117,7 @@
 } 
 /*.........................Some more text.....................*/
 .text-and-service{
-    width: 100%;
+    width: 1110px;
     height: 106px;
     display: flex;
     flex-direction: row;
