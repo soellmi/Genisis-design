@@ -1,0 +1,146 @@
+/*.........................Title.......................*/
+.title-and-quote{
+    width: 1037px;
+    height: 228px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    padding-bottom:144px ;
+}
+
+.title-shooting-hello {
+    width: 635px;
+}
+
+.shooting-stars{
+    font-family: 'Mulish', sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 700;
+    color: #4A4FF2;
+}
+
+.hello{
+    font-family: 'Mulish', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.rectangle-and-quote{
+    width: 212px;
+    height: 34px;
+    
+}
+
+.rectangle{
+    width: 30px;
+    opacity: 50%;
+}
+
+.quote{
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 23px;
+    font-weight: 400;
+    opacity: 60%;  
+}
+/*.........................Photo-grid.....................*/
+.photo-grid-container{
+    width: 1115px;
+    height: 1960px;
+    display: grid;
+    grid-template-columns:auto;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    padding-bottom: 91px;
+}
+
+.rectangle-1{
+    grid-column: 1/4;
+    grid-row:1/8;
+}
+
+.rectangle-2{
+    grid-column:4/7 ;
+    grid-row:1/7;
+}
+.rectangle-3{
+    grid-column:7/10;
+    grid-row:1/11;
+}
+.rectangle-4{
+    grid-column: 1/4 ;
+    grid-row: 8/16 ;
+}
+
+.rectangle-5{
+    grid-column:4/7;
+    grid-row:7/14;
+}
+
+.rectangle-6{
+    grid-column: 7/10;
+    grid-row:11/18 ;
+}
+
+.rectangle-7{
+    grid-column: 1/4;
+    grid-row: 16/24;
+}
+
+.rectangle-8{
+    grid-column: 4/7;
+    grid-row: 14/23;
+}
+
+.rectangle-9{
+    grid-column:7/10 ;
+    grid-row: 18/27 ;
+}
+
+.rectangle-10{
+    grid-column: 1/4 ;
+    grid-row:24/33 ;
+}
+
+.rectangle-11{
+    grid-column:4/7 ;
+    grid-row:23/33 ;
+}
+
+.rectangle-12{
+    grid-column:7/10 ;
+    grid-row:27/33 ;
+} 
+/*.........................Some more text.....................*/
+.text-and-service{
+    width: 1079px;
+    height: 106px;
+    display: flex;
+    flex-direction: row;
+}
+.we-love-hard{
+    width: 635px;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    font-size: 28px;  
+    line-height: 38px;
+}
+.service{
+    width: 350px;
+    height: 89px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    opacity: 60%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/*.........................Awards.....................*/
+
