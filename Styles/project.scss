@@ -1,0 +1,61 @@
+/*.........................Title.......................*/
+.title-text-details{
+    width:1120px ;
+    height: 381px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.title-text{
+    width:635px;
+    height: 222px;
+}
+
+.title-project{
+    width: 495px;
+    height: 130px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    padding-bottom: 39px;
+}
+
+.text-there-are{
+    font-family: 'Mulish', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.details{
+    width: 335px;
+    height: 343px;
+    padding-left: 140px;
+    padding-top: 20px;
+    
+}
+
+.detail{
+    width: 335px;
+    height: 42px;
+    display: flex;
+    flex-direction: row;
+}
+
+.category{
+    width: 137px ;
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    opacity: 50%;
+}
+
+.category-item{
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+}
